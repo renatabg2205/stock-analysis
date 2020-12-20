@@ -13,13 +13,17 @@ The elapsed run time for the first version of this code (green_stocks.xlsm) was 
 
 ![Elapsed run time for the original script (year 2018)](./Resources/VBA_Challenge_2018_before_refactoring.PNG)
 
+Original script: [Original script](green_stocks.xlsm)
+https://github.com/renatabg2205/stock-analysis/blob/main/green_stocks.xlsm
+
 ### Refactored script
 The original script ran through all the cells, summing up the values for each stock and printing the results for each ticker. The refatored code has arrays that store this information for each ticker and outputs the data by running through these arrays and printing the results to the spreadsheet. After refactoring the code, the elapsed run time is now 0.1875 seconds.
-
+<br />
 ![Elapsed run time for the refactored script (year 2017)](./Resources/VBA_Challenge_2017.PNG)
 
 ![Elapsed run time for the refactored script (year 2018)](./Resources/VBA_Challenge_2018.PNG)
 
+Refactored script: [Refactored script](VBA_Challenge.xlsm)
 
 ## Summary
 After refactoring the original script, the performance is faster, the code is easier to read and to be maintained (not only by the original developer but by anyone else that joins the project). In order to refactor the code, additional hours were needed which also means additional costs to a project. Also additional tests must be made to make sure the code is working properly.
