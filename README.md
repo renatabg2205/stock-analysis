@@ -25,6 +25,6 @@ The original script ran through all the cells, summing up the values for each st
 [Refactored script](VBA_Challenge.xlsm)
 
 ## Summary
-After refactoring the original script, the performance is faster, the code is easier to read and to be maintained (not only by the original developer but by anyone else that joins the project). In order to refactor the code, additional hours were needed which also means additional costs to a project. Also additional tests must be made to make sure the code is working properly. 
+The advantages of refactoring a code are faster performance and a code that is easier to read and to be maintained (not only by the original developer but by anyone else that joins the project). In order to refactor the code, additional hours are needed which also means additional costs to a project. Also additional tests must be made to make sure the code is working properly. 
 
-By refactoring the original script ([green_stocks.xlsm](green_stocks.xlsm)) and creating the arrays to store daily volume, starting and ending price, the run time is faster and the code has comments making it easier to read and to maintain.
+By refactoring the original script ([green_stocks.xlsm](green_stocks.xlsm)) and creating the arrays to store daily volume, starting and ending price, the run time is faster and the code has comments making it easier to read and to maintain ([VBA_Challenge.xlsm](VBA_Challenge.xlsm)).
