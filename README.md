@@ -1,7 +1,7 @@
 # stock-analysis
 
 ## Overview of Project
-The purpose of this project is to analyze different green energy stocks by comparing total daily volume (total number of shares traded throughout the day) and yearly return (percentage difference in price from the beginning of the year to the end of the year) in 2017 and 2018.
+The purpose of this project is to analyze different green energy stocks by comparing total daily volume (total number of shares traded throughout the day) and yearly return (percentage difference in price from the beginning of the year to the end of the year).
 
 ## Results
 The analysis was made using available data for twelve green energy stocks traded in 2017 and 2018. The daily volume for each one of the stocks was summed up to get the total daily volume per year. In order to get the yearly return, the starting price (the stock price on the first day of the year) and the ending price (the stock price on the last day of the year) for each stock were summed up and then the ending price was divided by the starting price and subtracted by 1 to get the percentage of variation between these prices. By having this information, we can easily compare the yearly performance of each green energy stock.
